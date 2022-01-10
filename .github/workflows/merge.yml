@@ -2,7 +2,7 @@ name: merge
 
 on:
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   lint:
